@@ -1,10 +1,10 @@
 # Dr. Abraham Albert
 
-### Educational Background 
+## Educational Background 
 * Ph.D. in Applied Artificial Intelligence (A.I.)
 * Master of Data Science
 
-### Work Experience 
+## Work Experience 
 Worked as [Sessional Lecturer](https://scholars.latrobe.edu.au/abonela/) at 
 [La Trobe University](https://www.latrobe.edu.au) 
 for the following post-graduate subjects: 
@@ -25,7 +25,7 @@ that make use parallel processing or distributed computing frameworks like Apach
 Spark to process large scale data.
 
 
-### Research Interests
+## Research Interests
 Currently, I am working on developing a multimodal algorithm (from scratch) 
 that can combine two different modalities: Images and Text.
 
@@ -34,13 +34,13 @@ included domains: computer vision, speech processing, and natural language
 processing. I have published multiple scientific research articles in high impact 
 journals including Nature's _Scientific Reports_. Please find my research profile [here](https://scholars.latrobe.edu.au/abonela/publications).
 
-#### Personal Projects
+### Personal Projects
 [Forever Dreaming](https://github.com/abrahamalbert18/ForeverDreaming): In 
 this project, I successfully developed a mini-version of transformer based 
 Large Language Model (LLM) from scratch using PyTorch. This model is trained using 
 Engilsh transcripts of T.V. Series.
 
-#### Ph.D. Projects
+### Ph.D. Projects
 [ADLAIA](https://www.sciencedirect.com/science/article/abs/pii/S0741832922001288?via%3Dihub)
 , a speech based algorithm I developed to identify whether a person is 
 sober or inebriated using 12-seconds of audio clip, was recognised worldwide by both 
@@ -58,7 +58,7 @@ text based algorithm that can process the song lyrics and identify and detect
 both alcohol related keywords and their connotation. This research article 
 was published in _Alcohol and Alcoholism_ journal. 
 
-#### Master's Thesis Project
+### Master's Thesis Project
 During my Master's degree, I have developed two deep learning algorithms 
 (multi-task learning based algorithm and variational autoencoder based 
 algorithm) that can extract phenotypes from time-lapse footage of the 
