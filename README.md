@@ -5,17 +5,17 @@
 * Master of Data Science
 
 ## Core Competencies
-* Programming Languages: Python, Scala, Java, R, Hive, SQL
-* Deep learning frameworks: PyTorch, HuggingFace Transformers, Tensorflow 
-* Machine learning libraries: NumPy, Pandas, Scikit-Learn
-* Big data analytics: Apache Spark
-* Cloud computing services: Amazon Web Services (AWS), Google Colab 
-* Containerisation technologies: Docker, Kubernetes (MiniKube)
-* Data visualisation: Dash (Plotly), Seaborn, Matplotlib
-* Version control systems: GitHub, GitLab
-* Deep Learning Domains: Computer Vision, Natural Language Processing, 
+* **Programming Languages:** Python, Scala, Java, R, Hive, SQL
+* **Deep learning frameworks:** PyTorch, HuggingFace Transformers, Tensorflow 
+* **Machine learning libraries:** NumPy, Pandas, Scikit-Learn
+* **Big data analytics:** Apache Spark
+* **Cloud computing services:** Amazon Web Services (AWS), Google Colab 
+* **Containerisation technologies:** Docker, Kubernetes (MiniKube)
+* **Data visualisation:** Dash (Plotly), Seaborn, Matplotlib
+* **Version control systems:** GitHub, GitLab
+* **Deep Learning Domains:** Computer Vision, Natural Language Processing, 
   Speech/Audio Processing
-* Miscellaneous: Exploratory Data Analysis, Data Engineering, API Development, Graphical User 
+* **Miscellaneous:** Exploratory Data Analysis, Data Engineering, API Development, Graphical User 
   Interface, Continuous Integration, Model Deployment, 
   Web Application Development  
 
