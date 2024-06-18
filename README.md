@@ -4,6 +4,21 @@
 * Ph.D. in Applied Artificial Intelligence (A.I.)
 * Master of Data Science
 
+## Core Competencies
+* Programming Languages: Python, Scala, Java, R, Hive, SQL
+* Deep learning frameworks: PyTorch, HuggingFace Transformers, Tensorflow 
+* Machine learning libraries: NumPy, Pandas, Scikit-Learn
+* Big data analytics: Apache Spark
+* Cloud computing services: Amazon Web Services (AWS), Google Colab 
+* Containerisation technologies: Docker, Kubernetes (MiniKube)
+* Data visualisation: Dash (Plotly), Seaborn, Matplotlib
+* Version control systems: GitHub, GitLab
+* Deep Learning Domains: Computer Vision, Natural Language Processing, 
+  Speech/Audio Processing
+* Miscellaneous: Exploratory Data Analysis, Data Engineering, API Development, Graphical User 
+  Interface, Continuous Integration, Model Deployment, 
+  Web Application Development  
+
 ## Work Experience 
 Worked as [Sessional Lecturer](https://scholars.latrobe.edu.au/abonela/) at 
 [La Trobe University](https://www.latrobe.edu.au) 
@@ -41,10 +56,9 @@ Large Language Model (LLM) from scratch using PyTorch. This model is trained usi
 Engilsh transcripts of T.V. Series.
 
 ### Ph.D. Projects
-[ADLAIA](https://www.sciencedirect.com/science/article/abs/pii/S0741832922001288?via%3Dihub)
-, a speech based algorithm I developed to identify whether a person is 
+[ADLAIA](https://www.sciencedirect.com/science/article/abs/pii/S0741832922001288?via%3Dihub), a speech based algorithm I developed to identify whether a person is 
 sober or inebriated using 12-seconds of audio clip, was recognised worldwide by both 
-public health researchers and media.
+public health researchers and media (news papers and television).
 
 [ABIDLA2](https://onlinelibrary.wiley.com/doi/10.1111/acer.14925), an 
 image based algorithm I developed to identify and detect alcoholic beverages 
