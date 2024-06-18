@@ -5,7 +5,7 @@
 * Master of Data Science
 
 ## Core Competencies
-* **Programming Languages:** Python, Scala, Java, R, Hive, SQL
+* **Programming languages:** Python, Scala, Java, R, Hive, SQL
 * **Deep learning frameworks:** PyTorch, HuggingFace Transformers, Tensorflow 
 * **Machine learning libraries:** NumPy, Pandas, Scikit-Learn
 * **Big data analytics:** Apache Spark
@@ -13,11 +13,11 @@
 * **Containerisation technologies:** Docker, Kubernetes (MiniKube)
 * **Data visualisation:** Dash (Plotly), Seaborn, Matplotlib
 * **Version control systems:** GitHub, GitLab
-* **Deep Learning Domains:** Computer Vision, Natural Language Processing, 
+* **Deep learning Domains:** Computer Vision, Natural Language Processing, 
   Speech/Audio Processing
 * **Miscellaneous:** Exploratory Data Analysis, Data Engineering, API Development, Graphical User 
   Interface, Continuous Integration, Model Deployment, 
-  Web Application Development  
+  Web Application Development, LLM Finetuning, RAG  
 
 ## Work Experience 
 Worked as [Sessional Lecturer](https://scholars.latrobe.edu.au/abonela/) at 
@@ -27,17 +27,17 @@ for the following post-graduate subjects:
 * [Big Data Management on Cloud](https://handbook.latrobe.edu.au/subjects/2023/CSE5BDC?year=2023)
 * [Data Mining](https://handbook.latrobe.edu.au/subjects/2023/CSE5DMI?year=2023) 
 
-I received very good and memorable feedback from students for my teaching 
-skills.
-
 In the past, I worked as an A.I. Researcher, Lab Demonstrator and Research 
 Officer.
-
 As a lab demonstrator, I have taught concepts like fundamental 
 programming language concepts to complex machine & deep learning 
 algorithm concepts. In addition, I also taught data engineering concepts 
 that make use parallel processing or distributed computing frameworks like Apache 
 Spark to process large scale data.
+
+### Accolades
+I received very good and memorable feedback from students and my subject 
+coordinators for my teaching and demonstration skills.
 
 
 ## Research Interests
