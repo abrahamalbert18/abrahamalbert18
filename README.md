@@ -78,3 +78,35 @@ During my Master's degree, I have developed two deep learning algorithms
 algorithm) that can extract phenotypes from time-lapse footage of the 
 _Arabidopsis Thaliana_ plant and used them to find associations with plant genotypes.
 
+## Certifications
+**Massachusetts Institute of Technology :** Introduction to computational 
+thinking and data science
+
+**Massachusetts Institute of Technology :** Introduction to computer science 
+and programming using python
+
+**Linux Foundation :** Introduction to Linux
+
+**University of Michigan :** Using Databases with python
+**Institut Mines-Telecom :** Digital Networks Essentials
+**Duke University :** Virtualisation, Docker, and Kubernetes for Data Engineering
+
+### Audited courses
+**DeepLearning.AI and Stanford University :** Unsupervised Learning, 
+Recommenders, Reinforcement Learning
+
+**Stanford University :** Writing in the Sciences
+
+**Stanford University :** Convolutional Neural Networks for Visual 
+Recognition (CS231n)
+
+**Udacity :** Introduction to Machine Learning
+
+**Harvard :** Data Science: R Basics
+
+**Udacity :** Introduction to Data Science
+
+**IEEE :** Intro. to Data Storage and Management Technologies
+
+**Microsoft :** Developing Intelligent Apps and Bots
+
